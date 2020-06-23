@@ -1,0 +1,3 @@
+- project:
+    templates:
+      - ansible-collections-community-asa-units
